@@ -1,2 +1,2 @@
-# Fire-SuppressionSystem-for-EV-batteries
-Team - HawkEyes
+# Team - HawkEyes
+Fire-SuppressionSystem-for-EV-batteries
